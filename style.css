@@ -1,0 +1,15 @@
+h1{
+  color:lightblue;
+  font-size: 100px;
+  text-align: center;
+}
+ body {background-color: black;}
+
+h2{
+  color: lightblue;
+  font-size: 50px;
+}
+p{
+  color: yellow;
+  font-size: 20px;
+}
